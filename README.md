@@ -6,12 +6,12 @@
 
 <h3 align="left">🌏 Frontend Developer dari Papua, Indonesia</h3>
 
-<p align="left">
+<!-- <p align="left">
   Selamat datang di profil GitHub saya! 👋<br/>
   Saya senang mempelajari teknologi, mengeksplorasi kreativitas melalui fotografi,
   dan berkembang bersama komunitas. Saya percaya bahwa setiap tantangan adalah
   kesempatan untuk belajar dan menghasilkan karya yang bermanfaat.
-</p>
+</p> -->
 
 ## 🙋‍♂️ Tentang Saya
 
