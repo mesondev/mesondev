@@ -28,7 +28,6 @@
 - 🤝 **Kolaborasi:** Terbuka untuk berbagi ilmu dan mengerjakan proyek bersama.
 - 🎯 **Tujuan:** Terus belajar, meningkatkan kemampuan, dan menciptakan karya bermanfaat.
 
----
 
 ## 🌐 Media Sosial
 
