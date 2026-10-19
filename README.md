@@ -1,38 +1,105 @@
-<h1 align="center">Hai 👋, saya Meson Wakerkwa</h1>
-<h3 align="center">Seorang pengembang frontend yang hidup dari Papua.</h3>
+# 👋 Hai, Saya Meson Wakerkwa
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mesondev&label=Profile%20views&color=0e75b6&style=flat" alt="mesondev" /> </p>
-
-- 🔭 Saat ini saya sedang mengerjakan [Pengembangan Aplikasi Web](https://github.com/mesondev)
-
-- 🌱 Saya sedang belajar **Saya sendang berkembang bersama komunitas sacode**
-
-- 👯 Saya ingin berkolaborasi di [Proyek open-source dan aplikasi web](https://github.com/mesondev)
-
-- 🤝 Saya mencari bantuan dengan [saya seorang pengembagan aplikasi web](https://github.com/mesondev)
-
-- 👨‍💻 Semua proyek saya tersedia di [https://mesondev.github.io/messondev.github.io/](https://mesondev.github.io/messondev.github.io/)
-
-- 💬 Tanya saya tentang **Pengembangan diri, komunikasi, kreativitas, dan cara baru untuk masa depan.**
-
-- 📫 Cara menghubungi saya **andreanwakey99@gmail.com**
-
-- ⚡ Fakta menarik **Berasal dari Papua, memiliki banyak mimpi, dan percaya bahwa setiap proses adalah bagian dari perjalanan menuju kesuksesan.**
-
-<h3 align="left">Hubungkan dengan saya:</h3>
-<p align="left">
-<a href="https://dev.to/meson wakerkwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="meson
-<a href="https://linkedin.com/in/meson wakerkwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meson wakerkwa" height="30" width="40" /></a> <a href="https://fb.com/mee" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mee" height="30" width="40" /></a>
-<a href="https://instagram.com/meee______16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meee______16" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/meson wakerkwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meson wakerkwa" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mesondev&label=Kunjungan%20Profil&color=0e75b6&style=flat" alt="Kunjungan profil mesondev" />
 </p>
 
-<h3 align="left">Bahasa dan Alat:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h3 align="center">🌏 Seorang pemuda dari Papua yang terus belajar, berkarya, dan berkembang.</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mesondev&show_icons=true&locale=en&layout=compact" alt="mesondev" /></p>
+<p align="center">
+  Selamat datang di profil GitHub saya! Saya percaya bahwa setiap proses adalah kesempatan untuk belajar, setiap tantangan adalah peluang untuk berkembang, dan setiap mimpi layak diperjuangkan.
+</p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mesondev&show_icons=true&locale=en" alt="mesondev" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mesondev&" alt="mesondev" /></p>
+## 🙋 Tentang Saya
+
+- 🌱 Saya terus belajar dan berkembang bersama komunitas SaCode.
+- 🤝 Saya terbuka untuk kolaborasi, berbagi pengalaman, dan kegiatan positif.
+- 💡 Saya tertarik pada kreativitas, teknologi, dan pengembangan diri.
+- 🎯 Saya ingin terus meningkatkan kemampuan dan menghasilkan karya yang bermanfaat.
+- 📍 Saya berasal dari Papua, Indonesia.
+- ⚡ **Fakta menarik:** Saya memiliki banyak mimpi dan percaya bahwa konsistensi adalah bagian penting dari perjalanan menuju kesuksesan.
+
+## 📫 Hubungi Saya
+
+<p align="left">
+  <a href="https://github.com/mesondev">
+    <img src="https://img.shields.io/badge/GitHub-mesondev-181717?style=for-the-badge&logo=github" alt="GitHub mesondev" />
+  </a>
+  <a href="mailto:andreanwakey99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Hubungi%20Saya-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/meee______16">
+    <img src="https://img.shields.io/badge/Instagram-Kunjungi%20Profil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+## 🌐 Temukan Saya di Platform Lain
+
+<p align="left">
+  <a href="https://facebook.com/mee">
+    <img src="https://img.shields.io/badge/Facebook-Profil-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.youtube.com/">
+    <img src="https://img.shields.io/badge/YouTube-Kunjungi-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
+
+## 🛠️ Teknologi dan Alat
+
+Teknologi dan alat yang saya pelajari atau gunakan:
+
+<p align="left">
+  <a href="https://www.w3.org/html/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42" />
+  </a>
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="42" height="42" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
+  </a>
+  <a href="https://www.php.net/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="42" height="42" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="42" height="42" />
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="42" height="42" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="42" height="42" />
+  </a>
+  <a href="https://vuejs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="42" height="42" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42" />
+  </a>
+  <a href="https://www.figma.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="42" height="42" />
+  </a>
+</p>
+
+## 📊 Statistik GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mesondev&show_icons=true&theme=tokyonight&hide_border=true&locale=id" alt="Statistik GitHub Meson Wakerkwa" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesondev&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa pemrograman yang digunakan" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mesondev&theme=tokyonight&hide_border=true" alt="Rangkaian kontribusi GitHub" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Terus belajar, tetap rendah hati, dan jangan pernah berhenti berkarya.”</i>
+</p>
+
+<p align="center">
+  ⭐ Terima kasih sudah mengunjungi profil saya!
+</p>
