@@ -1,10 +1,9 @@
 # 👋 Hai, Saya Meson Wakerkwa
+<h3 align="left">🌏 Frontend Developer dari Papua, Indonesia</h3>
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1300&color=38BDF8&left=true&vCenter=true&width=850&height=60&lines=Frontend+Developer;Photography;Belajar+Bersama+SaCode;Edukasi+Coding" alt="Frontend Developer | Photography | Belajar Bersama SaCode | Edukasi Coding" />
 </p>
-
-<h3 align="left">🌏 Frontend Developer dari Papua, Indonesia</h3>
 
 <!-- <p align="left">
   Selamat datang di profil GitHub saya! 👋<br/>
