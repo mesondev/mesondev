@@ -112,8 +112,6 @@
 
 > Terus belajar, tetap rendah hati, dan jangan pernah berhenti berkarya.
 
-<p align="left">
+<p align="center">
   ⭐ Terima kasih sudah mengunjungi profil GitHub saya!
-  <br/>
-  <sub>Made with ❤️ in Papua, Indonesia</sub>
 </p>
