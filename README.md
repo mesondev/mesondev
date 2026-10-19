@@ -12,11 +12,6 @@
   dan berkembang bersama komunitas. Saya percaya bahwa setiap tantangan adalah
   kesempatan untuk belajar dan menghasilkan karya yang bermanfaat.
 </p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mesondev&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🙋‍♂️ Tentang Saya
