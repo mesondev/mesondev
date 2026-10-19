@@ -32,8 +32,6 @@
 
 ## 🌐 Media Sosial
 
-## 🌐 Media Sosial
-
 <p align="left">
   <a href="https://github.com/mesondev">
     <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="42" height="42" />
