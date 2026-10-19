@@ -2,7 +2,7 @@
 <h3 align="center"> Frontend Developer dari Papua, Indonesia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1300&color=38BDF8&left=true&vCenter=true&width=850&height=60&lines=Frontend+Developer;Photography;Belajar+Bersama+SaCode;Edukasi+Coding" alt="Frontend Developer | Photography | Belajar Bersama SaCode | Edukasi Coding" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1300&color=38BDF8&center=true&vCenter=true&width=850&height=60&lines=Frontend+Developer;Photography;Belajar+Bersama+SaCode;Edukasi+Coding" alt="Frontend Developer | Photography | Belajar Bersama SaCode | Edukasi Coding" />
 </p>
 
 <!-- <p align="left">
