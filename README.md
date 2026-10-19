@@ -14,12 +14,13 @@
 
 ## 🙋 Tentang Saya
 
+- 🔭 Saat ini saya sedang mengerjakan [impian saya](https://github.com/mesondev)
+- 👯 Saya ingin berkolaborasi di [dengan komunitas sacode](https://sacode.web.id/)
 - 🌱 Saya terus belajar dan berkembang bersama komunitas SaCode.
 - 🤝 Saya terbuka untuk kolaborasi, berbagi pengalaman, dan kegiatan positif.
-- 💡 Saya tertarik pada kreativitas, teknologi, dan pengembangan diri.
+- 💡 Saya tertarik pada kreativitas, teknologi, dan pengembangan.
 - 🎯 Saya ingin terus meningkatkan kemampuan dan menghasilkan karya yang bermanfaat.
-- 📍 Saya berasal dari Papua, Indonesia.
-- 👯 Saya ingin berkolaborasi di [dengan komunitas sacode](https://sacode.web.id/)
+- 📍 Saya berasal dari Papua.
 - ⚡ **Fakta menarik:** Saya memiliki banyak mimpi dan percaya bahwa konsistensi adalah bagian penting dari perjalanan menuju kesuksesan.
 
 ## 📫 Hubungi Saya
