@@ -14,11 +14,11 @@
 
 ## 🙋‍♂️ Tentang Saya
 
-- 🔭 **Fokus saat ini:** Mengembangkan ide dan proyek digital.
+- 🔭 Saat ini saya sedang mengerjakan [impian saya](https://github.com/mesondev)
+- 🌱 **Komunitas:** Belajar dan berkembang bersama [SaCode](https://sacode.web.id/).
 - 💻 **Bidang:** Frontend Development dan pengembangan web.
 - 📸 **Hobi:** Photography dan eksplorasi kreativitas visual.
-- 🌱 **Komunitas:** Belajar dan berkembang bersama [SaCode](https://sacode.web.id/).
-- 🤝 **Kolaborasi:** Terbuka untuk berbagi ilmu dan mengerjakan proyek bersama.
+- 🤝 **Kolaborasi:** bersama sacode.
 - 🎯 **Tujuan:** Terus belajar, meningkatkan kemampuan, dan menciptakan karya bermanfaat.
 
 
