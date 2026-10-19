@@ -16,8 +16,7 @@
 - 🤝 Saya terbuka untuk kolaborasi, berbagi pengalaman, dan kegiatan positif.
 - 💡 Saya tertarik pada kreativitas, teknologi, dan pengembangan.
 - 🎯 Saya ingin terus meningkatkan kemampuan dan menghasilkan karya yang bermanfaat.
-- 📍 Saya berasal dari Papua.
-- ⚡ **Fakta menarik:** Saya memiliki banyak mimpi dan percaya bahwa konsistensi adalah bagian penting dari perjalanan menuju kesuksesan.
+
 
 ## 📫 Hubungi Saya
 
