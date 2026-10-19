@@ -74,31 +74,6 @@
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="42" />
   </a>
 </p>
-
----
-
-## 📊 Statistik GitHub
-
-<table align="left">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mesondev&show_icons=true&theme=tokyonight&hide_border=true&locale=id&card_width=350" alt="Statistik GitHub" height="145" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesondev&layout=compact&theme=tokyonight&hide_border=true&locale=id&card_width=300" alt="Bahasa Pemrograman" height="145" />
-    </td>
-  </tr>
-</table>
-
-<br clear="left"/>
-
-<h2 align="center">✨ Prinsip Saya</h2>
-
-<p align="center">
-  <i>“Terus belajar, tetap rendah hati, dan jangan pernah berhenti berkarya.”</i>
-</p>
-
-<p align="center">
   ⭐ Terima kasih sudah mengunjungi profil GitHub saya!
   <br/>
 </p>
