@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hai, Saya Meson Wakerkwa</h1>
-<h3 align="center"> Frontend Developer dari Papua, Indonesia</h3>
+<h3 align="center">Seorang pengembang frontend yang bersemangat dari Papua.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1300&color=38BDF8&center=true&vCenter=true&width=1000&height=75&lines=Frontend+Developer;Photography;Belajar+Bersama+SaCode;Edukasi+Coding" alt="Frontend Developer | Photography | Belajar Bersama SaCode | Edukasi Coding" />
