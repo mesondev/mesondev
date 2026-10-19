@@ -108,10 +108,13 @@
 
 ---
 
-## ✨ Prinsip Saya
+<h2 align="center">✨ Prinsip Saya</h2>
 
-> Terus belajar, tetap rendah hati, dan jangan pernah berhenti berkarya.
+<p align="center">
+  <i>“Terus belajar, tetap rendah hati, dan jangan pernah berhenti berkarya.”</i>
+</p>
 
 <p align="center">
   ⭐ Terima kasih sudah mengunjungi profil GitHub saya!
+  <br/>
 </p>
