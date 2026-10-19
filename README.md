@@ -19,6 +19,7 @@
 - 💡 Saya tertarik pada kreativitas, teknologi, dan pengembangan diri.
 - 🎯 Saya ingin terus meningkatkan kemampuan dan menghasilkan karya yang bermanfaat.
 - 📍 Saya berasal dari Papua, Indonesia.
+- 👯 Saya ingin berkolaborasi di [dengan komunitas sacode](https://sacode.web.id/)
 - ⚡ **Fakta menarik:** Saya memiliki banyak mimpi dan percaya bahwa konsistensi adalah bagian penting dari perjalanan menuju kesuksesan.
 
 ## 📫 Hubungi Saya
