@@ -1,7 +1,7 @@
 # 👋 Hai, Saya Meson Wakerkwa
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=38BDF8&left=true&vCenter=true&width=600&height=45&lines=Frontend+Developer;Photography;Belajar+Bersama+SaCode;Edukasi+Coding" alt="Frontend Developer | Photography | Belajar Bersama SaCode | Edukasi Coding" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=38BDF8&left=true&vCenter=true&width=700&height=50&lines=Frontend+Developer;Photography;Belajar+Bersama+SaCode;Edukasi+Coding" alt="Frontend Developer | Photography | Belajar Bersama SaCode | Edukasi Coding" />
 </p>
 
 <h3 align="left">🌏 Frontend Developer dari Papua, Indonesia</h3>
