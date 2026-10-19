@@ -4,14 +4,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1300&color=38BDF8&center=true&vCenter=true&width=850&height=60&lines=Frontend+Developer;Photography;Belajar+Bersama+SaCode;Edukasi+Coding" alt="Frontend Developer | Photography | Belajar Bersama SaCode | Edukasi Coding" />
 </p>
-
 <!-- <p align="left">
   Selamat datang di profil GitHub saya! 👋<br/>
   Saya senang mempelajari teknologi, mengeksplorasi kreativitas melalui fotografi,
   dan berkembang bersama komunitas. Saya percaya bahwa setiap tantangan adalah
   kesempatan untuk belajar dan menghasilkan karya yang bermanfaat.
 </p> -->
-
 ## 🙋‍♂️ Tentang Saya
 
 - 🔭 Saat ini saya sedang mengerjakan [impian saya](https://github.com/mesondev)
