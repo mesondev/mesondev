@@ -11,8 +11,6 @@
   kesempatan untuk belajar dan menghasilkan karya yang bermanfaat.
 </p> -->
 
-## 🙋‍♂️ Tentang Saya
-
 - 🔭 Saat ini saya sedang mengerjakan [impian saya](https://github.com/mesondev)
 - 🌱 **Komunitas:** Belajar dan berkembang bersama [SaCode](https://sacode.web.id/).
 - 💻 **Bidang:** Frontend Development dan pengembangan web.
