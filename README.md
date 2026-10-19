@@ -94,8 +94,6 @@
 
 <br clear="left"/>
 
----
-
 <h2 align="center">✨ Prinsip Saya</h2>
 
 <p align="center">
