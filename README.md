@@ -12,7 +12,6 @@
   dan berkembang bersama komunitas. Saya percaya bahwa setiap tantangan adalah
   kesempatan untuk belajar dan menghasilkan karya yang bermanfaat.
 </p>
----
 
 ## 🙋‍♂️ Tentang Saya
 
@@ -96,10 +95,6 @@
 </table>
 
 <br clear="left"/>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=mesondev&theme=tokyonight&hide_border=true&card_width=600" alt="GitHub Contribution Streak" height="145" />
-</p>
 
 ---
 
