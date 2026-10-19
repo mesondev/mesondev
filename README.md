@@ -32,21 +32,23 @@
 
 ## 🌐 Media Sosial
 
+## 🌐 Media Sosial
+
 <p align="left">
   <a href="https://github.com/mesondev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="42" height="42" />
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="42" height="42" />
   </a>&nbsp;
   <a href="mailto:andreanwakey99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="42" height="42" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="42" height="42" />
   </a>&nbsp;
   <a href="https://instagram.com/meee______16">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="42" height="42" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="42" height="42" />
   </a>&nbsp;
   <a href="https://facebook.com/mee">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="42" height="42" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="42" height="42" />
   </a>&nbsp;
   <a href="https://www.youtube.com/">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" width="42" height="42" />
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" width="42" height="42" />
   </a>
 </p>
 
