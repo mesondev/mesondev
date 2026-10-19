@@ -1,4 +1,4 @@
-# 👋 Hai, Saya Meson Wakerkwa
+<h1 align="center">👋 Hai, Saya Meson Wakerkwa</h1>
 <h3 align="left">🌏 Frontend Developer dari Papua, Indonesia</h3>
 
 <p align="left">
