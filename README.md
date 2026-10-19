@@ -1,10 +1,6 @@
 # 👋 Hai, Saya Meson Wakerkwa
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mesondev&label=Kunjungan%20Profil&color=0e75b6&style=flat" alt="Kunjungan profil mesondev" />
-</p>
-
-<h3 align="center">🌏 Seorang pemuda dari Papua yang terus belajar, berkarya, dan berkembang.</h3>
+<h3 align="center">🌏 Seorang pengembang frontend yang bersemangat dari Papua.</h3>
 
 <p align="center">
   Selamat datang di profil GitHub saya! Saya percaya bahwa setiap proses adalah kesempatan untuk belajar, setiap tantangan adalah peluang untuk berkembang, dan setiap mimpi layak diperjuangkan.
