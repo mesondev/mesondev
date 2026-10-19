@@ -33,26 +33,25 @@
 ## 🌐 Media Sosial
 
 <p align="left">
-  <a href="https://github.com/mesondev" target="_blank">
-    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="38" />
-  </a>
+  <a href="https://github.com/mesondev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="42" height="42" />
+  </a>&nbsp;
   <a href="mailto:andreanwakey99@gmail.com">
-    <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="38" />
-  </a>
-  <a href="https://instagram.com/meee______16" target="_blank">
-    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="38" />
-  </a>
-  <a href="https://facebook.com/mee" target="_blank">
-    <img src="https://img.shields.io/badge/-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="38" />
-  </a>
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="38" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="42" height="42" />
+  </a>&nbsp;
+  <a href="https://instagram.com/meee______16">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="42" height="42" />
+  </a>&nbsp;
+  <a href="https://facebook.com/mee">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="42" height="42" />
+  </a>&nbsp;
+  <a href="https://www.youtube.com/">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" width="42" height="42" />
   </a>
 </p>
 
----
 
-## 🛠️ Teknologi dan Alat
+## 🛠️ Bahasa dan Alat
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
